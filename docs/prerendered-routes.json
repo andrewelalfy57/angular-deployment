@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/",
+    "/request-follow-up",
+    "/request-location"
+  ]
+}
